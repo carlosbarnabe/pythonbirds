@@ -1,6 +1,4 @@
 
-
-
 """
 Criar uma classe carro que deverá possuir dois atributos compostos por outras duas classes:
 
